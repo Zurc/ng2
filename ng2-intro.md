@@ -22,3 +22,13 @@ Install github from npm
 <pre>$ npm install github</pre>
 
 Another [tutorial](https://www.atlassian.com/git/tutorials/install-git/) on how to install git on your computer.
+
+<pre>$ git clone <github project></pre>
+
+
+#### Local - ng-cli
+
+[here](https://cli.angular.io/) how to setup angular-cli to develop faster apps.
+
+
+
