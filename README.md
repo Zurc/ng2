@@ -1,4 +1,5 @@
-# ng2
+# ng2 - Intro
+
 angular2 - beginners tutorial
 
 For anyone interested in learning about angular 2 without the hassle of all the setup/configuration...
