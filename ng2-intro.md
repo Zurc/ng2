@@ -1,4 +1,4 @@
-# Angular 2 - Intro
+# Angular 2 - Setup
 
 This is another source for anyone who wants to learn Angular 2. A few tips on how was my way to test different features from a real-world project.
 
